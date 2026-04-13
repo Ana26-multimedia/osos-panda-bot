@@ -1,17 +1,19 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-3.jpg",
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-4.jpg",
 ];
 
 const titulos = [
-  "Tortuga morrocoy",
-  "Ranita venenosa",
+  "Panda Gigante 🐼🐾",
+  "Panda Rojo ฅ՞•ﻌ•՞ฅ",
+  "Panda Gigante 🐼🐾",
+  "Panda Rojo ฅ՞•ﻌ•՞ฅ"
 ];
 
 const frases = [
-  "Te alimentas de plantas, frutas, hojas y flores. Vives en bosques de climas cálidos y prefieres la tierra que el agua.",
-  "Eres pequeña pero tu extravagancia no pasa desapercibida. Vives en bosques húmedos y lluviosos y tienes veneno en la piel.",
+  "El panda dice que hoy debes descansar más 🐼",
+  "El panda rojo dice que hoy es un buen dia para cantar 🎶",
+  "El panda dice que debes confía en tu intuición✨",
+  "El panda rojo dice, que te parches algo bueno llegara si tienes paciencia 🎋"
 ];
 
 // Trae los elementos del HTML que tienen ese id
