@@ -51,6 +51,6 @@ let nombre= prompt("Cúal es tu nombre?");
 alert(`Hola, ${nombre}!`);
 
 
-saludo.innerText = "Bienvedid@ al oraculo del Panda, " + nombre;
+saludo.innerText = "Bienvenid@ al oraculo del Panda, " + nombre;
 
 generarPrediccion();
