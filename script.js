@@ -1,5 +1,5 @@
 // Crear las listas de imágenes, títulos y frases
-const imagenes = [
+const imagenes = ["assets/Pandas2.png", "assets/PandaRojo.jpg", "assets/Captura de pantalla 2026-04-13 a la(s) 9.29.47 a.m..png","assets/Red panda.jpg"
 ];
 
 const titulos = [
@@ -11,9 +11,9 @@ const titulos = [
 
 const frases = [
   "El panda dice que hoy debes descansar más 🐼",
-  "El panda rojo dice que hoy es un buen dia para cantar 🎶",
+  "El panda rojo dice que hoy es un buen día para que cantes y bailes 𐦂𖨆𐀪𖠋",
   "El panda dice que debes confía en tu intuición✨",
-  "El panda rojo dice, que te parches algo bueno llegara si tienes paciencia 🎋"
+  "El panda rojo dice, que te parches algo bueno llegará si tienes paciencia 🎋"
 ];
 
 // Trae los elementos del HTML que tienen ese id
