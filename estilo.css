@@ -102,3 +102,11 @@ h2 {
   opacity: 0.8; 
 }
 }
+
+.container {
+  display: flex; justify-content: center;
+}
+
+.container img{ 
+  width: 20%;
+}
